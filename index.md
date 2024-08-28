@@ -1,12 +1,12 @@
 ---
-title: The Monospace Web
-subtitle: A minimalist design exploration
-author: Oskar Wickström
-author-url: "https://wickstrom.tech"
-date: 2024-08-26
+title: Ber Gutman (They/Them)
+subtitle: A regular human person.
+author: Ber Gutman
+author-url: "https://ber.earth"
+date: 1997-09-04
 lang: en
 toc-title: Contents
-version: v0.1.0
+version: v0.0.1
 ---
 
 ## Introduction
